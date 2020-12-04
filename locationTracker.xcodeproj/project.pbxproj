@@ -431,13 +431,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G2J4J7JCBK;
+				DEVELOPMENT_TEAM = 8ZTPC3382A;
 				INFOPLIST_FILE = "locationTracker/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = tudorAndreescu.locationTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = user181154.locationTracker;
 				PRODUCT_NAME = "Location Tracker";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -449,13 +449,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G2J4J7JCBK;
+				DEVELOPMENT_TEAM = 8ZTPC3382A;
 				INFOPLIST_FILE = "locationTracker/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = tudorAndreescu.locationTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = user181154.locationTracker;
 				PRODUCT_NAME = "Location Tracker";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
